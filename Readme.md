@@ -45,13 +45,14 @@ SmartRecruit is a modern recruitment platform designed to simplify the hiring pr
 
 2. **Setup Frontend:**
    
-4. ```bash
+   ```bash
    cd frontend
    npm install
    # Tailwind CSS Setup
    npm install -D tailwindcss postcss autoprefixer
    npx tailwindcss init -p
    npm run dev
+
 5. **Setup Backend:**
 
    ```bash
